@@ -5,7 +5,7 @@
 
 ![Rafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafatritu&show_icons=true&theme=radical)
 
-### Tecnologias que eu uso no meu dia
+### Tecnologias que eu uso no meu dia:
 
 <div style="display: inline_block"><br/>
      <img alt="html5" src="https://img.shields.io/badge/HTML5-239120?style=for-the-badge&logo=html5&logoColor=white">
